@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FitnessApplication</string>
+
+    <!--- Pagina iniziale -->
+    <string name="welcome_msg">Benvenuto</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+
+    <!--- Sign Up e Sign In pages -->
+    <string name="register_msg">Registrati</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintCognome">Cognome</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintConfirm">Conferma</string>
+    <string name="go_to_sign_in">Hai già un account? Vai al login</string>
+    <string name="go_to_sign_up">Non hai già un account? Registrati</string>
+
+    <string name="profilo">Profilo</string>
+    <string name="sign_out">Sign out</string>
+
+</resources>
